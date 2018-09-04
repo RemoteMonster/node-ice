@@ -1,4 +1,9 @@
 {
+  "main": "node-ice/lib/ice.js",
+  "name": "node-ice",
+  "version": "0.0.1",
+  "license": "UNLICENSED",
+  "description": "Interactive Connectivity Establishment (ICE) (RFC 5245) for Node.js",
   "scripts": {
     "test": "find test/*.js | xargs -n 1 node | node_modules/tap-nyan/bin/cmd.js"
   },
