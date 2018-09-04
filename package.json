@@ -1,4 +1,6 @@
 {
+  "main": "node-ice/lib/ice.js",
+  "name": "node-ice",
   "scripts": {
     "test": "find test/*.js | xargs -n 1 node | node_modules/tap-nyan/bin/cmd.js"
   },
